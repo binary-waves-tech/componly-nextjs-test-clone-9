@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-cache: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,10 +12,8 @@ jobs:
       matrix:
         workspaces:
           - ./
-          - ./
 
     continue-on-error: true
-    
 
     steps:
       - name: Checkout repository
@@ -118,3 +116,18 @@ jobs:
               console.log(response.status);
             }
             postScan().catch(console.log);
+          
+          
+          
+          
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
