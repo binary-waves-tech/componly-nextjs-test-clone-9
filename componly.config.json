@@ -1,9 +1,1 @@
-{
-    "url": "http://localhost:3000",
-    "projectType": "react",
-    "designTokenGlobs": ["**/src/design-token.ts"],
-    "clientName": "Test client",
-    "staticDomain": "http://localhost:3000",
-    "projectID": "componly-nextjs-test",
-    "codebaseID": "f47f7313-6d56-4f9a-b931-4621d44dd811"
-  }
+{"codebaseID":"12d3bf4f-a837-4950-b92e-8ef6354fbd79","projectID":"1aa6e499-cf78-4027-ab3c-0a752558d7e8","url":"http://localhost:3000","projectType":"react","designTokenGlobs":["**/src/design-token.ts"],"clientName":"Test client","staticDomain":"http://localhost:3000","project":"./"}
